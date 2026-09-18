@@ -1,0 +1,25 @@
+#container{
+    height: 200px;
+    width: 300px;
+    background-color: rgb(206,17,38);
+    position: relative;
+}
+.circle{
+    background-color: white;
+    height: 75px;
+    width: 75px;
+   top: 63px;
+   left: 105px;
+   border-radius: 50%;
+    position: absolute;
+    
+}
+.plain{
+    position: absolute;
+    background-color: rgb(0,40,104);
+    height: 100px;
+    width: 300px;
+    top: 25%
+
+    }
+  

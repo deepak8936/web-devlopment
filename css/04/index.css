@@ -1,0 +1,21 @@
+h1{ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 50px;
+    background-color: beige;
+    color: rgb(232, 16, 63);
+}
+h2{
+    background-color: antiquewhite;
+    font-size: 2rem;
+}
+.Diet{ color: rgba(255, 0, 0, 0.809);
+    font-size: 5vh;
+
+}
+#Diet{color: rgb(2, 31, 255);
+    background-color: #e9a4a4
+
+
+}
+li{font-size: 4vh;
+
+}

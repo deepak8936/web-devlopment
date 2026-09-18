@@ -1,0 +1,61 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+h1{
+    background-color: aqua;
+    height: 40px; 
+    width: 215px;
+    
+    border-width: 5px;
+    border-style: solid;
+    border-color: red; 
+
+    border: 5px solid red;
+    padding: 5px;
+    margin: 10px;
+    
+}
+
+h2{
+    background-color: pink;
+    width: 330px;
+    border: 2px solid blue;
+    padding: 10px;
+    margin: 10px;
+
+}
+p{
+    background-color: green;
+    padding: 5px;
+    border: 1px solid black;
+    margin: 14px;
+} 
+ span{
+    color: rgb(27, 27, 205);
+    height: 330px;
+    width: 300px;
+    
+
+
+ }
+    h1{
+        
+        background-color: aqua;
+        height: 300px;
+        width: 300px;
+        border: 10px solid orange;
+        padding: 20px;
+        box-sizing: content-box;
+
+
+    }
+    h2{
+         background-color: aqua;
+        height: 300px;
+        width: 300px;
+        border: 10px solid orange;
+        padding: 20px;
+        box-sizing: border-box;
+    }

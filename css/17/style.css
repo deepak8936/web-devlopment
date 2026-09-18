@@ -1,0 +1,28 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.container{
+    background-color: rgba(178, 230, 213, 0.733);
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr  ;
+    height: 900px;
+    width: 900px;
+    gap: 5px;
+}
+.box{
+    background-color: rgb(108, 108, 209);
+}
+.sidebar{
+    grid-row:1/4;
+}
+.header{
+    grid-column: 2/4;
+}
+.content3{
+    grid-row:2/4 ;
+    grid-column: 4/5;
+
+}

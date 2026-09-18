@@ -1,0 +1,38 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-size: 30px;
+    font-weight: 25%;
+    text-align: center;
+    
+}
+body{
+    background-color: black;
+}
+
+.container{
+    display: grid;
+    grid-template-rows: repeat(8,1fr);
+    grid-template-columns: repeat(8,1fr);
+    height: 600px;
+    width: 600px;
+    background-color: rgb(12, 240, 240);
+
+}
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+.child1{
+    background-color: rgb(83, 3, 3);
+
+
+}
+.child2{
+    background-color: white ;
+}

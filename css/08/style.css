@@ -1,0 +1,18 @@
+#contener{
+    height: 200px;
+    width: 300px;
+    background-color: white;
+    position: relative;
+
+}
+#circle{
+    background-color: rgb(255, 0, 0);
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    position: absolute ;
+    left: 100px;
+    top: 50px;
+     
+
+}
